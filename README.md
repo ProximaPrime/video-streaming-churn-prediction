@@ -12,12 +12,17 @@ Predict churn probability for each customer:
 - Output: `predicted_probability` (value between 0 and 1)
 
 ## 📂 Project Structure
-project/
-├── train.csv  
+
+```
+video-streaming-churn-prediction/
+│
+├── train.csv
 ├── test.csv
+├── data_description.csv
 ├── ChurnPrediction.ipynb
-├── prediction_submission.csv  
-└── README.md  
+├── prediction_submission.csv
+└── README.md
+```
 
 ## ⚙️ Pipeline Overview
 1. Load training and test datasets  
