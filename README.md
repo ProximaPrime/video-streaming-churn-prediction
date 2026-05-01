@@ -52,7 +52,7 @@ pip install pandas numpy scikit-learn lightgbm matplotlib
 Place `train.csv` and `test.csv` in the project directory  
 
 4. Run pipeline  
-- Option A: Open `notebook.ipynb` and run all cells  
+- Open `ChurnPrediction.ipynb` and run all cells  
 
 5. Output file  
 prediction_submission.csv will be generated automatically  
